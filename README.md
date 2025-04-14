@@ -6,6 +6,7 @@
 
 </head>
 <body>
+        <img src="https://github.com/user-attachments/assets/8aefdbc2-8e48-43e9-a549-6df85a4424ac"    alt="PARTI.COM" width="250" height="250">
     <h1>parti.com anti viewbotting</h1>
     <p>parti.com anti viewbotting is a Python script designed to analyze livestream viewer data from the Parti API. It calculates the number of real viewers and fake (bot) viewers based on two configurable viewer ratios: <strong>8:1</strong> and <strong>12:1</strong>. The script then outputs the calculated data in a JSON format.</p>
     <h2>Features</h2>
